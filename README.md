@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jade Cormier</h1>
 <h3 align="center">A passionate fullstack developer from Paris, France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jadecathleen&label=Profile%20views&color=0e75b6&style=flat" alt="jadecathleen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadecathleen" alt="jadecathleen" /></a> </p>
-
 - 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/)
 
 - 🌱 I’m currently learning **React**
