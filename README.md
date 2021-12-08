@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently improving my skills in **JavaScript** and learning its framework **React**
 
-- 👨‍💻 All of my projects are available at [https://jadecathleen.github.io/my-profile-page/](https://jadecathleen.github.io/my-profile-page/)
+- 👨‍💻 All of my projects are available at [https://jadecathleen.github.io/my-profile-page/](https://jadecathleen.github.io/my-profile-page/) (portfolio in progress)
 
 - 📫 How to reach me **cormier.jade@gmail.com**
 
