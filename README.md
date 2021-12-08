@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills in **JavaScript** and learning its framework **React**
 
-- 👨‍💻 All of my projects are available at [https://jadecathleen.github.io/my-profile-page/](https://jadecathleen.github.io/my-profile-page/) (portfolio in progress)
+- 👨‍💻 All of my projects are available at [https://troopl.com/cormierjade](https://troopl.com/cormierjade)
 
 - 📫 How to reach me **cormier.jade@gmail.com**
 
