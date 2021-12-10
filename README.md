@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jade Cormier</h1>
 <h3 align="center">A passionate fullstack developer from Paris, France</h3>
 
-- 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/)
+- 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/) and reading **'The Ruby on Rails Tutorial' by Michael Hartl**
 
-- 🌱 I’m currently improving my skills in **JavaScript** and learning its framework **React**
+- 🌱 I’m currently improving my skills in **JavaScript** and **Stimulus**. I have the goal to learn the JS Framework **React**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/cormierjade](https://troopl.com/cormierjade)
 
