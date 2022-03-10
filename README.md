@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills in **JavaScript** and **Stimulus**. I have the goal to learn the JS Framework **React**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/cormierjade](https://troopl.com/cormierjade)
+- 👨‍💻 All of my projects are available [HERE](https://jade-cormier.com)
 
 - 📫 How to reach me **cormier.jade@gmail.com**
 
