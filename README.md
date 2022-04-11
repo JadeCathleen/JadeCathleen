@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/) and reading **'The Ruby on Rails Tutorial' by Michael Hartl**
 
-- 🌱 I’m currently improving my skills in **JavaScript** and **Stimulus**. I have the goal to learn the JS Framework **React**
+- 🌱 I’m currently improving my skills in **Rails** Framework thanks to [GoRails](https://gorails.com/) tutorials
 
 - 👨‍💻 All of my projects are available [HERE](https://jade-cormier.com)
 
