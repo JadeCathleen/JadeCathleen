@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jade Cormier</h1>
 <h3 align="center">A passionate fullstack developer from Paris, France</h3>
 
-- 🔭 I’m currently working on [MyBatchCooker](http://www.mybatchcooker.com/) and reading **'The Ruby on Rails Tutorial' by Michael Hartl**
-
-- 🌱 I’m currently improving my skills in **Rails** Framework thanks to [GoRails](https://gorails.com/) tutorials
+- 🔭 I’m currently working as a full-time Fullstack Developer for a supply-chain platform
 
 - 👨‍💻 All of my projects are available [HERE](https://jade-cormier.com)
 
@@ -14,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jade-cormier-54758b64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jade-cormier-54758b64" height="30" width="40" /></a>
-<a href="https://instagram.com/jadecathleen22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jadecathleen22" height="30" width="40" /></a>
 <a href="https://twitter.com/JadeCathleen22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadecathleen22" height="30" width="40" /></a>
 </p>
 
