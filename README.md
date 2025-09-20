@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jade Cormier</h1>
-<h3 align="center">A passionate fullstack developer from Paris, France</h3>
+<h3 align="center">A passionate fullstack developer from Paris, France, currently living in Montreal, QC, Canada</h3>
 
-- 🔭 I’m currently working as a full-time Fullstack Developer for a supply-chain platform
+- 🔭 I worked 3 years as a full-time Fullstack Developer for a supply-chain platform in Paris, France. Now I am looking for a new position in Montreal.
 
 - 👨‍💻 All of my projects are available [HERE](https://jade-cormier.com)
 
